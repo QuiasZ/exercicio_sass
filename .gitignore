@@ -1,0 +1,2 @@
+# arquivo utilizado para informar ao GIt que determinados arquivos ou pastas não devem ser comitados
+node_modules
